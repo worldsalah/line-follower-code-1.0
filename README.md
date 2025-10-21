@@ -1,5 +1,3 @@
-Sure! Here's a clean, GitHub-ready **README.md** you can copy and paste directly into your repository:
-
 ---
 
 #  Line Follower Robot (5 IR Sensors + TB6612 + Arduino Nano)
@@ -161,5 +159,3 @@ Free to use, modify, and improve.
 Credit appreciated but not required.
 
 ---
-
-Let me know if you want a version in French, add a photo, or structure it with sections like "Contributing" or "Setup"!
